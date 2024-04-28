@@ -1,4 +1,5 @@
-[
+{
+  "professors": [
     {
         "name": "AAAddfa",
         "id": 5030,
@@ -44,3 +45,4 @@
         "numberContract": 3434
     }
 ]
+}
